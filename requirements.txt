@@ -1,10 +1,12 @@
+-urses @ file:///C:/Users/Jun%20Jiet%20Ng/GitRepos/intermediate-python-projects/curses-2.2.1%2Butf8-cp38-cp38-win32.whl
 astroid==2.4.2
 colorama==0.4.3
--e git+https://github.com/Luclause/intermediate-python-projects.git@ba952699835c84cf8cb2d303251f02d65a68ee5b#egg=contactbook&subdirectory=contact_book
+-e git+https://github.com/Luclause/intermediate-python-projects.git@388e3f53a8d172d350fe16052123e1a588388951#egg=contactbook&subdirectory=contact_book
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pylint==2.5.3
 six==1.15.0
 toml==0.10.1
+windows-curses==2.1.0
 wrapt==1.12.1
